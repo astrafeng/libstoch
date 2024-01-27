@@ -1,6 +1,4 @@
-// Copyright (C) 2019 EDF
-// All Rights Reserved
-// This code is published under the GNU Lesser General Public License (GNU LGPL)
+
 #ifndef CONTINUATIONCUTSTREE_H
 #define CONTINUATIONCUTSTREE_H
 #include <iostream>

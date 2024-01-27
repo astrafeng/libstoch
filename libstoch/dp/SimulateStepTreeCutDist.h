@@ -1,6 +1,4 @@
-// Copyright (C) 2019 EDF
-// All Rights Reserved
-// This code is published under the GNU Lesser General Public License (GNU LGPL)
+
 #ifndef SIMULATESTEPTREECUTDIST_H
 #define SIMULATESTEPTREECUTDIST_H
 #include <boost/mpi.hpp>

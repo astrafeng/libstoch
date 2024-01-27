@@ -1,8 +1,3 @@
-#! /usr/bin/python
-# Copy or move Artistic Style backup files to a backup directory.
-# NOTE: This script uses "shutil.copy2" which will keep the
-#     last access time and last modification time of the original file.
-
 import os
 import shutil
 import sys

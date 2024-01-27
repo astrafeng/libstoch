@@ -1,6 +1,3 @@
-// Copyright (C) 2016 EDF
-// All Rights Reserved
-// This code is published under the GNU Lesser General Public License (GNU LGPL)
 #ifndef OPTIMIZEDEMANDSDDP_H
 #define OPTIMIZEDEMANDSDDP_H
 #include "ClpSimplex.hpp"

@@ -1,6 +1,4 @@
-// Copyright (C) 2019 EDF
-// All Rights Reserved
-// This code is published under the GNU Lesser General Public License (GNU LGPL)
+
 #ifndef OPTIMIZERDPCUTBASE_H
 #define OPTIMIZERDPCUTBASE_H
 #include <Eigen/Dense>
