@@ -1,6 +1,4 @@
-// Copyright (C) 2018 EDF
-// All Rights Reserved
-// This code is published under the GNU Lesser General Public License (GNU LGPL)
+
 #include <functional>
 #include <boost/mpi.hpp>
 #include <boost/timer/timer.hpp>

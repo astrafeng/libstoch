@@ -1,6 +1,4 @@
-// Copyright (C) 2018 EDF
-// All Rights Reserved
-// This code is published under the GNU Lesser General Public License (GNU LGPL)
+
 #ifndef DYNAMICHEDGEL2DIST_H
 #define DYNAMICHEDGEL2DIST_H
 #include <fstream>
